@@ -1,0 +1,15 @@
+{
+  "name": "com.tea-spoons.simple-localization",
+  "version": "0.5.0",
+  "displayName": "Simple Localization",
+  "description": "Lightweight localization.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Muhammad Tarek Abdou",
+    "email": "muhammadtarekabdou@gmail.com",
+    "url": "https://github.com/MuhammadTarek0"
+  },
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "documentationUrl": "https://github.com/tea-spoons/simple-localization#readme",
+  "licensesUrl": "https://github.com/tea-spoons/simple-localization/blob/main/LICENSE.md"
+}
