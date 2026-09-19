@@ -91,6 +91,10 @@ https://github.com/tea-spoons/simple-localization.git
 
 Pin a release by appending a tag, for example `#v0.5.0`.
 
+## Change plan
+
+See [CHANGE-PLAN.md](CHANGE-PLAN.md) for what changed before publishing and what is planned next.
+
 ## License
 
 Copyright (c) 2026 Bigpoint. Authored by Muhammad Tarek Abdou.
